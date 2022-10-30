@@ -131,7 +131,7 @@ $x('/')
 // Selecciona un nodo
 $x('/html')
 
-// todos los nodos
+// saltar nodos
 $x('//') 
 
 // Extraer el texto que contiene el nodo 
